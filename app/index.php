@@ -8,6 +8,7 @@
 	</head>
 	<body>
 		<p><b>CALCUALDORA IPv4</b></p>
+                <p>Autor: asix2</p>
 		<a href="ip.html">Aplicació de càlcul de subxarxes</a>
 	</body>
 <html>
